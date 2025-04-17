@@ -1,0 +1,10 @@
+export { default as DesktopCart } from "./cart";
+export { default as DesktopCategory } from "./category";
+export { default as DesktopHome } from "./home";
+export { default as DesktopOrderComplete } from "./orderComplete";
+export { default as DesktopOrders } from "./orders";
+export { default as DesktopSearch } from "./search";
+export { default as DesktopProduct } from "./product";
+export { default as DesktopProfile } from "./profile";
+export { default as DesktopQrReder } from "./qr-reder";
+export { default as DesktopWishlist } from "./wishlist";

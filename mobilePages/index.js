@@ -1,0 +1,11 @@
+export { default as MobileCart } from "./cart";
+export { default as MobileCategory } from "./category";
+export { default as MobileHome } from "./home";
+export { default as MobileOrderComplete } from "./orderComplete";
+export { default as MobileOrders } from "./orders";
+export { default as MobileSearch } from "./search";
+export { default as MobileProduct } from "./product";
+export { default as MobileProfile } from "./profile";
+export { default as MobileQrReder } from "./qr-reder";
+export { default as MobileWishlist } from "./wishlist";
+export { default as MobilePayment } from "./payment";
